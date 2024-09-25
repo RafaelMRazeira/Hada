@@ -1,0 +1,5 @@
+torch==2.2.1
+transformers==4.44.2
+accelerate==0.34.2
+numpy==1.26.0
+argparse==1.4.0
