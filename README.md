@@ -58,7 +58,7 @@ See [Getting Started with nina](docs/markdowm/getting-started.md), to learn abou
 
 ## Contribute with the project
 
-A continous effort have being made to maintain code stability and consistency throughout the package. However, bugs can be found. If you found some, please create a [GitHub issue](https://github.com/nuveo/nina/issues)
+A continous effort have being made to maintain code stability and consistency throughout the package. However, bugs can be found. If you found some, please create a [GitHub issue](https://github.com/RafaelMRazeira/Hada/issues)
 
 ## License
 
