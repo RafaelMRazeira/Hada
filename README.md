@@ -44,9 +44,9 @@ See [INSTALL.md](/docs/markdowm/INSTALL.md).
 
 ## Getting Started
 
-Follow the [installation instructions](/docs/markdowm/INSTALL.md) to install Nina.
+Follow the [installation instructions](/docs/markdowm/INSTALL.md) to install Hada.
 
-See [Getting Started with nina](docs/markdowm/getting-started.md), to learn about basic usage.
+See [Getting Started with hada](docs/markdowm/getting-started.md), to learn about basic usage.
 
 ## Features of this package
 
